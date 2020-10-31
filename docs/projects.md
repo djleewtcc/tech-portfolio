@@ -3,12 +3,9 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+Project Name: DuckDuckGo<br />
+Project Link: [https://github.com/djleewtcc/DuckDuckGo](https://github.com/djleewtcc/DuckDuckGo)<br />
+Project Description: This application queries the DuckDuckGo search API to check if all of the presidents' last names are listed in the results.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+![DuckDuckGo Project Screenshot](./assets/Project_Screenshot01.PNG)
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
